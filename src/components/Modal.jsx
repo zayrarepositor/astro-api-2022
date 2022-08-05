@@ -113,10 +113,10 @@ const Modal = ({ setModalAnimation, setModal }) => {
           <Text>
             github <span>☞</span>{" "}
             <Link
-              href="https://github.com/zayrarepositor"
+              href="https://github.com/zayrarepositor/astro-api-2022"
               target="_blank"
               rel="noopener noreferrer">
-              zayrarepositor
+              astro api 2022
             </Link>
           </Text>
           <Text>
