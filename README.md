@@ -22,7 +22,9 @@
 ## Contact
 
 ✉ Contact info:
+
 linkedIn ☞ <a href="https://www.linkedin.com/in/zayra-velasco">Zayra Velasco</a>
+
 mail ☞ <a href="mailto:zayra.contacto@gmail.com">zayra.contacto(gmail)</a>
 
 ## Snip
