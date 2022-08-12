@@ -5,7 +5,7 @@
 
 ## astro-api-2022
 
-👩‍🚀 It is a small project created with with vite and styled components.
+👩‍🚀 It is a small project created with Vite and Styled components.
 
 ## Deploy
 
@@ -13,7 +13,7 @@
 
 ## About
 
-💫 Astro Api was thought to find information about Planets and Moons. Also you can see tha astronomic picture of the day from Nasa.
+💫 Astro Api was thought to find information about Planets and Moons. Also you can see the astronomic picture of the day from Nasa.
 
 ## Techs
 
